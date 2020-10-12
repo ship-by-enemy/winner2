@@ -1,0 +1,6 @@
+.links:hover{
+    background: lightgreen;
+}
+html{
+    scroll-behavior: smooth;
+}
